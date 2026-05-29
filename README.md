@@ -25,11 +25,10 @@ Includes standard BMI/BMR dynamic evaluation tools with strict input validation 
 
 ## 💻 Interface & Visualization
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/google/generative-ai-python/main/docs/images/gemini-pro-vision-samples/image_0.png" alt="CareBuddy AI Interface Showcase" width="600">
-</p>
-
-*Above: The dual-panel image illustrates the CareBuddy AI application. The left panel shows the general dashboard view with all modules. The right panel (Ad Placement View) highlights the dedicated area for **Google AdSense Ads** with a dashed red box. While the prototype on free hosting undergoes validation, this fallback system prevents layout shifts and ensures the application is production-ready for immediate monetization upon custom domain migration.*
+| 📱 Main Dashboard View | 💵 AdSense Placement (Fallback) |
+|:---:|:---:|
+| <img src="AXRecorder_20260529_01.jpg" width="350" alt="Main Dashboard"> | <img src="AXRecorder_20260529_02.jpg" width="350" alt="AdSense Slot"> |
+| *The clinical user interface showcasing the Bengali AI Chatbot module entry point.* | *The dedicated Google AdSense revenue slot with CSS fallback container at the footer.* |
 
 ---
 
@@ -37,7 +36,7 @@ Includes standard BMI/BMR dynamic evaluation tools with strict input validation 
 > 💡 **Google AdSense Implementation Attempt:**
 > A core milestone of this prototype was establishing a solid financial infrastructure for long-term project viability. We have successfully implemented a dedicated **Google AdSense architecture** within the codebase (`Publisher ID: pub-7482303859667884`, `Ad Slot ID: 9064540213`). 
 > 
-> Due to the temporary constraints of a free-tier hosting sub-domain during the hackathon phase, live ads are undergoing domain validation. However, as demonstrated in the visualization above, the application structure is completely production-ready.
+> Due to the temporary constraints of a free-tier hosting sub-domain during the hackathon phase, live ads are undergoing domain validation. However, as demonstrated in the visual layout above, the alternative placeholder CSS structure ensures zero layout shifts and keeps the application completely production-ready for immediate monetization upon custom domain migration.
 
 ---
 
