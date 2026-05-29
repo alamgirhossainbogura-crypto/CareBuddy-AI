@@ -2,7 +2,7 @@
 
 CareBuddy AI is a smart medical platform and comprehensive nursing dashboard designed to deliver personalized health insights, first-aid solutions, and vital calculators entirely in Bengali. 
 
-Built with a sleek **Clinical Dark-Teal Tech** theme, this application bridges the gap between conversational AI, nursing logic, and long-term project sustainability.
+Built with a clean **Clinical Mint-Green & Clean White** theme, this application bridges the gap between conversational AI, nursing logic, and long-term project sustainability.
 
 ---
 
