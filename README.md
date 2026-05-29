@@ -10,6 +10,10 @@ Built with a clean **Clinical Mint-Green & Clean White** theme, this application
 * **Live Deployment:** [https://app-by6npjuct1c1.appmedo.com/?s=s?s=s]
 * **Repository Architecture:** Monolithic Web Prototype
 * **Development Environment:** Acode (Optimized for lightweight, mobile-first compilation)
+## 🎬 Submission Video Demo
+[![CareBuddy AI Video Demo](https://img.youtube.com/vi/RyuxNDfQ2Bk/0.jpg)](https://www.youtube.com/watch?v=RyuxNDfQ2Bk)
+
+*(Click the image above to watch our project demonstration on YouTube)*
 
 ---
 
