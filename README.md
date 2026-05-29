@@ -7,7 +7,7 @@ Built with a sleek **Clinical Dark-Teal Tech** theme, this application bridges t
 ---
 
 ## 🚀 Live Demo & Infrastructure
-* **Live Deployment:** [Insert Your Live Link Here]
+* **Live Deployment:** [https://app-by6npjuct1c1.appmedo.com/?s=s?s=s]
 * **Repository Architecture:** Monolithic Web Prototype
 * **Development Environment:** Acode (Optimized for lightweight, mobile-first compilation)
 
