@@ -11,7 +11,7 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "YOUR_API_KEY_HERE")
 MODEL_NAME = "gemini-3.5-flash"  # <--- লেটেস্ট মডেলে আপডেট করা হলো
 
 # ==========================================
-# ২. システム প্রম্পট
+# ২. সিস্টেম প্রম্পট
 # ==========================================
 SYSTEM_PROMPT = """
 You are "CareBuddy AI", a specialized medical first-aid and nursing guidance assistant. 
