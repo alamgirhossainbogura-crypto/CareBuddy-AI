@@ -10,6 +10,8 @@ Built with a clean **Clinical Mint-Green & Clean White** theme, this application
 * **Live Deployment:** [https://app-by6npjuct1c1.appmedo.com/?s=s?s=s]
 * **Repository Architecture:** Monolithic Web Prototype
 * **Development Environment:** Acode (Optimized for lightweight, mobile-first compilation)
+* **Infrastructure Journey:** Initially compiled and locally tested using Pydroid 3 environment on mobile, then successfully deployed to the MeDo cloud infrastructure for public access.
+
 ## 🎬 Submission Video Demo
 [![CareBuddy AI Video Demo](https://img.youtube.com/vi/RyuxNDfQ2Bk/0.jpg)](https://www.youtube.com/watch?v=RyuxNDfQ2Bk)
 
