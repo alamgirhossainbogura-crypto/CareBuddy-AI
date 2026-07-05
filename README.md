@@ -42,6 +42,9 @@ Includes standard BMI/BMR dynamic evaluation tools with strict input validation 
 > 
 > Due to the temporary constraints of a free-tier hosting sub-domain during the hackathon phase, live ads are undergoing domain validation. However, as demonstrated in the visual layout above, the alternative placeholder CSS structure ensures zero layout shifts and keeps the application completely production-ready for immediate monetization upon custom domain migration.
 
+## 💰 Micro-transaction Validation: 
+Successfully generated early MVP revenue of 100 BDT ($0.85 USD) from an early-stage user for custom symptom screening validation.
+
 ---
 
 ## 🔮 Future Roadmap
